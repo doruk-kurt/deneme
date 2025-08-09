@@ -1,6 +1,1 @@
-Bir kabın ağırlığı boşken a gram, $$\frac{1}{3}$$ ü sivi ile doluyken b gramdır. Bu kabın tamamı sivi ile dolu iken ağırlık kaç gramdır?
-A) 5b - 4a
-B) 4b - 3a
-C) 3b - 2a
-D) 2b - a
-E) b - a
+Aşağıdaki eşitliklerden hangisi doğrudur?\nA) $2,61 \\cdot 10^4 = 0,261 \\cdot 10^3$\nB) $6 \\cdot 10^{-10} = 600 \\cdot 10^{-8}$\nC) $6,21 \\cdot 10^{-5} = 621 \\cdot 10^{-7}$\nD) $26000 = 2,6 \\cdot 10^3$
